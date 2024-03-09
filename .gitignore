@@ -1,3 +1,6 @@
+# Local files
+raw_text_dataset.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
